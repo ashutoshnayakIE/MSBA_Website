@@ -22,6 +22,8 @@ The folder contains all the files for the MSBA website. The description are:<br>
    <ul>
      <li> classFile.js: contains all the object classes for which instances have been created </li>
      <li> classFile.js: contains all the functions used in the website (example: changing rectangle color)</li>
+     <li> classFile.js: contains all the object classes for which instances have been created </li>
+     <li> classFile.js: contains all the functions used in the website (example: changing rectangle color)</li>
    </ul>
   </li>
   
