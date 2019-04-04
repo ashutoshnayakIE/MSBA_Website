@@ -25,7 +25,6 @@ The folder contains all the files for the MSBA website. The description are:<br>
      <li> interactive.js : contains DOM elements for the interactive course structure in tree format </li>
    <\ul>
   </li>
-     
- #</ul>
+ 
  
 The dodumentation is not complete yet. I am working on it. Most of the documentation terms of how to change and what to change is provided in each page at the top. Also contains the precautions to be taken while changing the files.
