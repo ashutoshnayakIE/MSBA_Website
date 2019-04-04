@@ -5,7 +5,7 @@ The folder contains all the files for the MSBA website. The description are:<br>
   <li> folder: css
    <ul>
      <li> styles.css: contains the file for css styles used in the website </li>
-   <\ul>
+
   </li>
   <li> folder: data
    <ul>
