@@ -15,9 +15,8 @@ The folder contains all the files for the MSBA website. The description are:<br>
      <li> topics.js: contains the data for the course structure (more details in the file) in a dictionary format</li>
    </ul>
   </li>
-     
-  <li> folder: images - contains the diffferent images used in the website </li>
-  <li> folder: js
+   
+   <li> folder: js
    <ul>
      <li> classFile.js : contains all the object classes for which instances have been created </li>
      <li> functions.js : contains all the functions used in the website (example: changing rectangle color)</li>
@@ -25,6 +24,9 @@ The folder contains all the files for the MSBA website. The description are:<br>
      <li> interactive.js : contains DOM elements for the interactive course structure in tree format </li>
    <\ul>
   </li>
+     
+  <li> folder: images - contains the diffferent images used in the website </li>
+  
  
  </ul>
  
