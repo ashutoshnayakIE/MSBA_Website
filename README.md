@@ -31,4 +31,10 @@ The folder contains all the files for the MSBA website. The description are:<br>
  
 The documentation is not complete yet. I am working on it. Most of the documentation in terms of how to change and what to change is provided at the top of each page. It contains the precautions to be taken while changing the files.
 
-<b> Functionality </b> On hovering the quarters, the extent of topics covered in that particular quarter is highlighted by the indictor lines below. 
+<b> Functionality </b> 
+<ul>
+  <li>On hovering over the quarters, the extent of topics covered in that particular quarter is highlighted by the indictor lines below </li>
+  <li>On selecting the different courses (in the rectangle), the graph on the right shows the topics covered in that course</li>
+  <li>On hovering over the course, their relationship is highlighted</li>
+  <li>On clicking the topics, it directs to a new page for that topic</li>
+</ul>
