@@ -2,16 +2,19 @@
 The folder contains all the files for the MSBA website. The description are:<br>
 <ul>
   <li> index.html: this is the main file and contains the links to different files used in the webpage </li>
+  
   <li> folder: css
    <ul>
      <li> styles.css: contains the file for css styles used in the website </li>
-
+   </ul>
   </li>
+  
   <li> folder: data
    <ul>
      <li> topics.js: contains the data for the course structure (more details in the file) in a dictionary format</li> 
    <\ul>
   </li>
+     
   <li> folder: images - contains the diffferent images used in the website </li>
   <li> folder: js
    <ul>
