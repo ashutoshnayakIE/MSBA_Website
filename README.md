@@ -15,12 +15,6 @@ The folder contains all the files for the MSBA website. The description are:<br>
      <li> topics.js: contains the data for the course structure (more details in the file) in a dictionary format</li>
    </ul>
   </li>
-  
-  <li> folder: data
-   <ul>
-     <li> topics.js: contains the data for the course structure (more details in the file) in a dictionary format</li> 
-   <\ul>
-  </li>
      
   <li> folder: images - contains the diffferent images used in the website </li>
   <li> folder: js
@@ -31,6 +25,7 @@ The folder contains all the files for the MSBA website. The description are:<br>
      <li> interactive.js : contains DOM elements for the interactive course structure </li>
    <\ul>
   </li>
+     
  </ul>
  
 The dodumentation is not complete yet. I am working on it. Most of the documentation terms of how to change and what to change is provided in each page at the top. Also contains the precautions to be taken while changing the files.
