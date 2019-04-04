@@ -10,9 +10,9 @@ The folder contains all the files for the MSBA website. The description are:<br>
   </li>
   
   
-  <li> folder: css
+  <li> folder: data
    <ul>
-     <li> styles.css: contains the file for css styles used in the website </li>
+     <li> topics.js: contains the data for the course structure (more details in the file) in a dictionary format</li>
    </ul>
   </li>
   
