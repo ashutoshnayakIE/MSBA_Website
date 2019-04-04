@@ -21,9 +21,9 @@ The folder contains all the files for the MSBA website. The description are:<br>
   <li> folder: data
    <ul>
      <li> classFile.js: contains all the object classes for which instances have been created </li>
-     <li> classFile.js: contains all the functions used in the website (example: changing rectangle color)</li>
-     <li> classFile.js: contains all the object classes for which instances have been created </li>
-     <li> classFile.js: contains all the functions used in the website (example: changing rectangle color)</li>
+     <li> functions.js: contains all the functions used in the website (example: changing rectangle color)</li>
+     <li> lefthand.js : contains DOM elements for the lefthand side of the webpage and all its functions </li>
+     <li> interactive.js : contains DOM elements for the interactive course structure in tree format </li>
    </ul>
   </li>
   
