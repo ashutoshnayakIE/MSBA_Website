@@ -1,0 +1,45 @@
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:2px !important; padding-bottom:2px !important;
+    height: 30px;
+}
+.navbar {min-height:30px !important;}
+
+h4 {
+  color: #C0C0C0;
+}
+span{
+  color: #0000A0;
+}
+.container.custom-container {
+  padding: 0;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1px;
+}
+
+.link--active {
+  stroke: #000 !important;
+  stroke-width: 1.5px;
+}
+
+.link-extension--active {
+  stroke-opacity: .6;
+}
+
+.label--active {
+  font-weight: bold;
+}
+
+.link {
+  fill: none;
+  stroke-width: 2px;
+}
+path {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.node text { font: 10px sans-serif;font-weight: bold;}
